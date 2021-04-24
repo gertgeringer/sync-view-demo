@@ -1,2 +1,2 @@
 # sync-view-demo
-A demo to show how you could keep three.js scenes in sync
+A demo showing how to keep the cursor locations in sync between different Three.js scenes.
